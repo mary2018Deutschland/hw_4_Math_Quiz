@@ -1,0 +1,28 @@
+.App{
+  background-color: aqua;
+  border-radius: 8px;
+  border: 1px solid rgb(122, 40, 216);
+  max-width: max-content;
+
+}
+.math-quiz {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #333;
+}
